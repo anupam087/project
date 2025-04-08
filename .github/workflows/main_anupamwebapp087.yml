@@ -55,4 +55,4 @@ jobs:
           app-name: 'anupamwebapp087'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_119F975C2DCD43829AD6CEA688CA619F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AE33CEBF2BB45AFA08E46F9DD5F3237 }}
